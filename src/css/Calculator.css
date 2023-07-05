@@ -4,14 +4,11 @@
   width: 40%;
   background-color: #333;
   border-radius: 5px;
-  padding: 10px;
 }
 
 .display {
-  background-color: #222;
+  background-color: #969696;
   padding: 0.8rem;
-  margin-bottom: 1rem;
-  border-radius: 5px;
 }
 
 .display input {
@@ -37,9 +34,9 @@ button {
   flex: 1;
   padding: 15px;
   font-size: 18px;
-  border: none;
-  background-color: #444;
-  color: white;
+  color: black;
+  border-bottom: gray;
+  border-right: gray;
   cursor: pointer;
   outline: none;
 }
