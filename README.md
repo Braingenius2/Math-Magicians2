@@ -66,7 +66,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Check the live page [here](https://braingenius2.github.io/Math-Magicians2/)
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,7 +206,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Braingenius2/Math-Magicians/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
