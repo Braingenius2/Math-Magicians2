@@ -66,7 +66,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- N/A
+- Check the live page [here](https://braingenius2.github.io/Math-Magicians2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
