@@ -21,8 +21,10 @@ const App = () => (
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
+          <Route path="/Math-Magicians2" element={<Home />} />
           <Route path="/calculator" element={<Calculator />} />
           <Route path="/quote" element={<Quote />} />
+          <Route path="*" element={<div>If page not found it goes here</div>} />
         </Route>
       </Routes>
     </div>
